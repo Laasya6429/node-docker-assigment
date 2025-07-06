@@ -1,4 +1,4 @@
-FROM node:18-alphine
+FROM docker.io/library/node:18-alpine
 
 WORKDIR /app
 
